@@ -1,5 +1,5 @@
 [package]
-name = "rust-dds-sys"
+name = "opensplice-sys"
 version = "0.0.1"
 authors = ["Benjamin Meijer"]
 
