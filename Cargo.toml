@@ -8,9 +8,3 @@ keywords = ["dds", "opensplice", "bindings", "network-protocol", "network-progra
 repository = "https://github.com/corollaries/opensplice-sys"
 categories = ["external-ffi-bindings", "network-programming"]
 license = "Apache-2.0"
-
-[build-dependencies]
-bindgen = "0.40.0"
-
-[dependencies]
-libc = "0.2.0"

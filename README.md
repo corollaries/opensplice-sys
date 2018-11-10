@@ -20,6 +20,7 @@ If it cannot find the environment variable the library will not be build.
 
 ## Generating bindings using bindgen
 If you want to generate the bindings yourself replace `build.rs` with the following piece of code.
+**Note:** You will need to add `bindgen` to the `[build-dependencies]` in `Cargo.toml`. 
 
 ```rust
 extern crate bindgen;
