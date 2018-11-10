@@ -4,6 +4,7 @@ version = "0.0.1"
 authors = ["Benjamin Meijer"]
 description = "opensplice-sys is a generated rust binding to the Vortex Opensplice DDS C API"
 keywords = ["dds", "opensplice", "bindings", "network-protocol", "network-programming"]
+repository = "https://github.com/corollaries/opensplice-sys"
 categories = ["external-ffi-bindings", "network-programming"]
 license = "Apache-2.0"
 
