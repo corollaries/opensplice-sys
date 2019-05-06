@@ -6,9 +6,6 @@ To be able to use this binding you need Vortex Opensplice installed on your mach
 The rust bindings were generated using bindgen.
 
 ### **Current state of opensplice-sys**  
-There are currently no unittests for the opensplice-sys crate. I am planning to add these somewhere in the future
-to guarantee a correct working of the crate.  
-However, I did use this binding to create a wrapper library already. *(Tested this on Ubuntu 18.04 x86_64)*  
 If you encounter any problems, please create an issue and let me know!
 
 ## Building opensplice-sys  
